@@ -115,6 +115,15 @@ synthetic flower-measurement dataset on the fly.
 | Reports        | ReportLab (PDF), JSON, CSV |
 | Benchmarking   | scikit-learn (Compare page only) |
 
+
+
+## 👩‍💻 Author
+
+**Pakhi Saxena**  
+B.Tech Electronics & Communication Engineering (ECE) Student
+
+
+
 ## 📌 Notes
 
 - The scratch algorithms only accept **numeric** feature columns; non-numeric selections are
@@ -123,4 +132,4 @@ synthetic flower-measurement dataset on the fly.
 
 ---
 
-Built as a portfolio project to demonstrate ML fundamentals and product-quality UI/UX.
+
